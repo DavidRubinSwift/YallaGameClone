@@ -1,0 +1,2 @@
+C:\The Only One\Tiltan\MobileUnity\FinalProject\YallaGame\YallaGame\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\The Only One\Tiltan\MobileUnity\FinalProject\YallaGame\YallaGame\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
